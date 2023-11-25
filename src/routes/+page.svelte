@@ -12,7 +12,7 @@
 	<hr class="w-full max-w-xs my-4 border-t border-gray-300" />
     <div class="btn-group-vertical !bg-transparent btn-xl w-72">
         <button class="bg-transparent py-2 my-1">contact</button>
-        <button class="bg-transparent py-2 my-1">portfolio</button>
+        <button class="bg-transparent py-2 my-1">experience</button>
         <button class="bg-transparent py-2 my-1">projects</button>
         <button class="bg-transparent py-2 my-1">about me</button>
     </div>
