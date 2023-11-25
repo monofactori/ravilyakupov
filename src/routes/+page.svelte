@@ -10,12 +10,12 @@
 	<h1 class="text-center h1">Ravil Yakupov</h1>
 	<p class="text-center text-xl">furniture development and consultancy.</p>
 	<hr class="w-full max-w-xs my-4 border-t border-gray-300" />
-	<div class="btn-group-vertical variant-ghost btn-xl">
-		<button>contact</button>
-		<button>portfolio</button>
-		<button>projects</button>
-		<button>about me</button>
-	</div>
+    <div class="btn-group-vertical !bg-transparent btn-xl w-72">
+        <button class="bg-transparent py-2 my-1">contact</button>
+        <button class="bg-transparent py-2 my-1">portfolio</button>
+        <button class="bg-transparent py-2 my-1">projects</button>
+        <button class="bg-transparent py-2 my-1">about me</button>
+    </div>
 </div>
 
 <style>
